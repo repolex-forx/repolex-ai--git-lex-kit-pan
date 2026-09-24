@@ -1,0 +1,11 @@
+{
+  "org": "repolex-ai",
+  "repo": "git-lex-kit-pan",
+  "versions": [
+    {
+      "commit": "e2458eccc41248a1fffd82686add31fe385c6c98",
+      "tag": "main",
+      "parsed_at": "2026-09-24T11:53:54.835547+00:00"
+    }
+  ]
+}
